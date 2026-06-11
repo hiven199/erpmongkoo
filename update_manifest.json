@@ -1,20 +1,44 @@
 {
   "apps": {
     "frappe": {
-      "version": "16.0.0",
-      "release_url": "https://github.com/frappe/frappe/releases/tag/v16.0.0"
+      "version": "16.22.0",
+      "branch": "version-16",
+      "release_url": "https://github.com/frappe/frappe/tree/version-16"
+    },
+    "telephony": {
+      "version": "0.0.1",
+      "branch": "develop",
+      "release_url": "https://github.com/frappe/telephony/tree/develop"
+    },
+    "helpdesk": {
+      "version": "1.22.2",
+      "branch": "develop",
+      "release_url": "https://github.com/frappe/helpdesk/tree/develop"
+    },
+    "crm": {
+      "version": "2.0.0-dev",
+      "branch": "develop",
+      "release_url": "https://github.com/frappe/crm/tree/develop"
     },
     "erpnext": {
-      "version": "16.0.0",
-      "release_url": "https://github.com/frappe/erpnext/releases/tag/v16.0.0"
+      "version": "16.22.0",
+      "branch": "version-16",
+      "release_url": "https://github.com/frappe/erpnext/tree/version-16"
     },
     "hrms": {
-      "version": "16.0.0",
-      "release_url": "https://github.com/frappe/hrms/releases/tag/v16.0.0"
+      "version": "16.9.0",
+      "branch": "version-16",
+      "release_url": "https://github.com/frappe/hrms/tree/version-16"
+    },
+    "cn_integration": {
+      "version": "0.0.1",
+      "branch": "main",
+      "release_url": "https://github.com/hiven199/cn_integration/tree/main"
     },
     "frappe_cn_fix": {
-      "version": "0.0.2",
-      "release_url": "https://github.com/hiven199/frappe_cn_fix/releases/tag/v0.0.2"
+      "version": "1.0.0",
+      "branch": "version-16-sidebar-invoice-fix",
+      "release_url": "https://github.com/hiven199/frappe_cn_fix/tree/version-16-sidebar-invoice-fix"
     }
   }
 }
