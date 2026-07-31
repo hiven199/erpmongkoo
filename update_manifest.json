@@ -35,10 +35,10 @@
       "branch": "version-16",
       "release_url": "https://github.com/hiven199/frappe_cn_fix/tree/version-16"
     },
-    "frappe_fei_shu": {
+    "frappe_feishu": {
       "version": "0.0.1",
       "branch": "version-16",
-      "release_url": "https://github.com/hiven199/frappe_fei_shu/tree/version-16"
+      "release_url": "https://github.com/hiven199/frappe_feishu/tree/version-16"
     },
     "cn-integration": {
       "version": "0.0.1",
