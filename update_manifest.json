@@ -45,10 +45,10 @@
       "branch": "version-16",
       "release_url": "https://github.com/hiven199/cn-integration/tree/version-16"
     },
-    "cn-integration": {
+    "frappe_oss_accelerator": {
       "version": "0.0.1",
       "branch": "version-16",
-      "release_url": "https://github.com/hiven199/cn-integration/tree/version-16"
+      "release_url": "https://github.com/hiven199/frappe_oss_accelerator/tree/version-16"
     }
   }
 }
